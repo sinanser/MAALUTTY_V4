@@ -13,7 +13,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HUSNISERMODZ/MAALUTTYV4)
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V4/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinanser/MAALUTTY_V4)
 <h3 align="center">Developers</h3>
 <p align="center">
   <a href="https://github.com/nijin-husni"><img src="https://github.com/nijin-husni.png" height="128" width="128" /></a>
